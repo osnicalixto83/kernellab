@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+docs/comparacao_cpu.png
+docs/comparacao_memoria.png
