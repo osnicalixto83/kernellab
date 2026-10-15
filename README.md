@@ -76,6 +76,7 @@ Se `origin` já existir, não repita `git remote add origin`; confira com `git r
 4. Atualize o README substituindo `SEU-USUARIO` pelo usuário correto.
 5. No GitHub, confira se `README.md`, `src/`, `data/`, `tests/` e `docs/` aparecem na página principal.
 6. Para validar a entrega, clone em outra pasta e siga as instruções de execução e testes acima.
+ lINK DO VIDEO https://youtu.be/jB3d0nFGjFI
 
 ## Limitações
 O projeto é uma simulação didática. Não modela o kernel real, custos de troca de contexto, paginação física, drivers, interrupções, mutexes/semafóros do sistema operacional nem requisitos certificados de tempo real.
